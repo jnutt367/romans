@@ -41,11 +41,7 @@ export default function Home() {
           For I am not ashamed of the  gospel, because it is the power
           of God that brings salvation to everyone who believes. First the Jew & then the Gentile
         </p>
-        <p className={styles.description}>
-          Back to the {' '}
-          <a href="https://the-holy-bible.vercel.app/"><code className={styles.code}>Gospels</code></a>
-        </p>
-
+    
 
         <div className={styles.grid}>
          <div className={styles.card}>
