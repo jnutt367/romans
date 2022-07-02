@@ -204,6 +204,7 @@
     background-image: url(/monophy.gif);
     background-repeat: no-repeat;
     background-size: cover;
+    cursor: all-scroll;
     background-color: white;
     opacity: 0.9;
     overflow: scroll;
