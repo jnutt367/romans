@@ -31,8 +31,8 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Left Click on Cards
-          <code className={styles.publisher}>&darr; --- &darr;</code>
+        
+          <code className={styles.publisher}>&darr; Scroll &darr;</code>
         </p>
 
 
