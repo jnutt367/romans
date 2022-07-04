@@ -580,6 +580,12 @@ Erastus, who is the city’s director of public works, and our brother Quartus s
 </div>
 
         </div>
+        <p className={styles.description}> 
+        <code className={styles.publisher}>
+        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
+        </code>
+        </p>
+
       </main>
 
       <footer className={styles.footer}>
