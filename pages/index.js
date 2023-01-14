@@ -27,10 +27,12 @@ export default function Home() {
        <a href="https://the-holy-bible.vercel.app/">
             <button className={styles.button}>HOME</button>
        </a>
-      
-            <button href="https://acts-zeta.vercel.app/" className={styles.button}>Prev</button>
-            <button href="https://first-corinthians.vercel.app/" className={styles.button}>Next</button>
-              
+       <a  href="https://acts-zeta.vercel.app/" >
+            <button className={styles.button}>Prev</button>
+        </a>
+          <a  href="https://first-corinthians.vercel.app/" >
+            <button className={styles.button}>Next</button>
+        </a>
 
         <div className={styles.grid}>
          <div className={styles.card}>
