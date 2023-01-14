@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
          <div className={styles.hero}>
        <Image 
-                                src="/romans.jpg"
+                                src="/romans-1600-x-650-1.jpg"
                                 alt="Romans"
                                 height={900}
                                 width={2000}
@@ -27,9 +27,10 @@ export default function Home() {
        <a href="https://the-holy-bible.vercel.app/">
             <button className={styles.button}>HOME</button>
        </a>
-         <a href="https://the-holy-bible.vercel.app/">
-            <button className={styles.button}>BOOKMARK</button>
-       </a>           
+      
+            <button href="https://acts-zeta.vercel.app/" className={styles.button}>Prev</button>
+            <button href="https://first-corinthians.vercel.app/" className={styles.button}>Next</button>
+              
 
         <div className={styles.grid}>
          <div className={styles.card}>
