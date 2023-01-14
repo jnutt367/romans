@@ -13,7 +13,7 @@ export default function Home() {
      
       <main className={styles.main}>
         <h1 className={styles.title}>
-           <a href="https://nextjs.org">The Book Of</a>
+         The Book Of
         </h1>
          <div className={styles.hero}>
        <Image 
@@ -24,15 +24,20 @@ export default function Home() {
                                 priority
                               />
                           
-       <a href="https://the-holy-bible.vercel.app/">
-            <button className={styles.button}>HOME</button>
+     <a href="https://the-holy-bible.vercel.app/">
+            <button className={styles.button}> HOME </button>
        </a>
-       <a  href="https://acts-zeta.vercel.app/" >
-            <button className={styles.button}>Prev</button>
-        </a>
-          <a  href="https://first-corinthians.vercel.app/" >
-            <button className={styles.button}>Next</button>
-        </a>
+
+         <a href="#PayPalButton">
+            <button className={styles.button}>CONTRIBUTE </button>
+        </a> 
+         <a href="https://acts-zeta.vercel.app/">
+            <button className={styles.button}>PREV </button>
+       </a>           
+        <a href="https://first-corinthians.vercel.app/">
+            <button className={styles.button}>NEXT > </button>
+       </a>           
+
 
         <div className={styles.grid}>
          <div className={styles.card}>
