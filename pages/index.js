@@ -13,11 +13,11 @@ export default function Home() {
      
       <main className={styles.main}>
         <h1 className={styles.title}>
-         The Book Of
+        ROMANS
         </h1>
          <div className={styles.hero}>
        <Image 
-                                src="/_Romans.jpg"
+                                src="/trust.webp"
                                 alt="Romans"
                                 height={900}
                                 width={2000}
