@@ -23,7 +23,7 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
-                          
+                       <div className={styles.nav}>   
      <a href="https://the-holy-bible.vercel.app/">
             <button className={styles.button}> HOME </button>
        </a>
@@ -37,7 +37,7 @@ export default function Home() {
         <a href="https://first-corinthians.vercel.app/">
             <button className={styles.button}>NEXT > </button>
        </a>           
-
+                  </div?
 
         <div className={styles.grid}>
          <div className={styles.card}>
