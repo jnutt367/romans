@@ -37,7 +37,7 @@ export default function Home() {
         <a href="https://first-corinthians.vercel.app/">
             <button className={styles.button}>NEXT > </button>
        </a>           
-                  </div?
+                  </div>
 
         <div className={styles.grid}>
          <div className={styles.card}>
