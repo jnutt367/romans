@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
          <div className={styles.hero}>
        <Image 
-                                src="/trust.webp"
+                                src="/crosses-5009501__340.webp"
                                 alt="Romans"
                                 height={900}
                                 width={2000}
