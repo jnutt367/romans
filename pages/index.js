@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
          <div className={styles.hero}>
        <Image 
-                                src="/jesus-dies-cross_24381-1006.webp"
+                                src="/istockphoto-1165302828-612x612.jpg"
                                 alt="Romans"
                                 height={900}
                                 width={2000}
