@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
          <div className={styles.hero}>
        <Image 
-                                src="/istockphoto-1165302828-612x612.jpg"
+                                src="/illustration-jesus-walked-out-tomb_29028-284.webp"
                                 alt="Romans"
                                 height={900}
                                 width={2000}
