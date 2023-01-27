@@ -38,7 +38,12 @@ export default function Home() {
             <button className={styles.button}>NEXT > </button>
        </a>           
                   </div>
-
+   <h1 className={styles.instructions}>
+        &darr; SCROLL DOWN &darr;
+        </h1>
+        <h1 className={styles.instructions}>
+        Touch to Read Chapters 
+        </h1>
         <div className={styles.grid}>
          <div className={styles.card}>
             <h2>Chapter 1  Paul, a servant of Christ Jesus, &darr;</h2>
