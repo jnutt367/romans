@@ -16,6 +16,7 @@ export default function Home() {
         ROMANS
         </h1>
          <div className={styles.hero}>
+            <div  className={styles.image}>
        <Image 
                                 src="/illustration-jesus-walked-out-tomb_29028-284.webp"
                                 alt="Romans"
@@ -23,6 +24,7 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
+            </div>                       
                        <div className={styles.nav}>   
      <a href="https://the-holy-bible.vercel.app/">
             <button className={styles.button}> HOME </button>
