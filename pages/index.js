@@ -34,7 +34,7 @@ export default function Home() {
                         <div className={styles.nav}>           
       <a href="https://acts-zeta.vercel.app/">
              <Image 
-                                src="/702-7024826_computer-back-icon-left-right-arrow-cartoon-arrow.png"
+                                src="/left-arrow.jpg"
                                 alt="Jesus"
                                  height={100}
                                 width={100}
@@ -54,7 +54,7 @@ export default function Home() {
         </a> 
          <a href="https://first-corinthians.vercel.app/">
            <Image 
-                                src="/jean_victor_balin_arrow_orange_right.png"
+                                src="/right-arrow.jpg"
                                 alt="Jesus"
                                  height={100}
                                 width={100}
@@ -66,7 +66,7 @@ export default function Home() {
                </div>
         <div className={styles.grid}>
          <div className={styles.card}>
-            <h2>Chapter 1  Paul, a servant of Christ Jesus, &darr;</h2>
+            <h2  className={styles.chapter}>Romans Chapter I</h2>
             <p>called to be an apostle and set apart for the gospel of God— 2 the gospel he promised beforehand through his prophets in the Holy Scriptures 3 regarding his Son, who as to his earthly life[a] was a descendant of David, 4 and who through the Spirit of holiness was appointed the Son of God in power[b] by his resurrection from the dead: Jesus Christ our Lord. 5 Through him we received grace and apostleship to call all the Gentiles to the obedience that comes from[c] faith for his name’s sake. 6 And you also are among those Gentiles who are called to belong to Jesus Christ.
 
 7 To all in Rome who are loved by God and called to be his holy people:
@@ -95,7 +95,7 @@ God’s Wrath Against Sinful Humanity
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 2 God’s Righteous Judgment &darr;</h2>
+           <h2  className={styles.chapter}>Romans Chapter II</h2>
             <p>
 2 You, therefore, have no excuse, you who pass judgment on someone else, for at whatever point you judge another, you are condemning yourself, because you who pass judgment do the same things. 2 Now we know that God’s judgment against those who do such things is based on truth. 3 So when you, a mere human being, pass judgment on them and yet do the same things, do you think you will escape God’s judgment? 4 Or do you show contempt for the riches of his kindness, forbearance and patience, not realizing that God’s kindness is intended to lead you to repentance?
 
@@ -112,7 +112,7 @@ The Jews and the Law
           </div>
           <div className={styles.card}
           >
-            <h2>Chapter 3   God’s Faithfulness &darr;</h2>
+           <h2  className={styles.chapter}>Romans Chapter III</h2>
             <p>
            
 3 What advantage, then, is there in being a Jew, or what value is there in circumcision? 2 Much in every way! First of all, the Jews have been entrusted with the very words of God.
@@ -155,8 +155,7 @@ Righteousness Through Faith
          <div
             className={styles.card}
           >
-            <h2> Chapter 4 
-            Abraham Justified by Faith &darr;</h2>
+           <h2  className={styles.chapter}>Romans Chapter IV</h2>
             <p>
             
 4 What then shall we say that Abraham, our forefather according to the flesh, discovered in this matter? 2 If, in fact, Abraham was justified by works, he had something to boast about—but not before God. 3 What does Scripture say? “Abraham believed God, and it was credited to him as righteousness.”[a]
@@ -179,9 +178,7 @@ Righteousness Through Faith
             </p>
           </div>
           <div className={styles.card}>
-          <h2>
-          Chapter 5
-          Peace and Hope</h2>
+        <h2  className={styles.chapter}>Romans Chapter V</h2>
           <p>
 5 Therefore, since we have been justified through faith, we[a] have peace with God through our Lord Jesus Christ, 2 through whom we have gained access by faith into this grace in which we now stand. And we[b] boast in the hope of the glory of God. 3 Not only so, but we[c] also glory in our sufferings, because we know that suffering produces perseverance; 4 perseverance, character; and character, hope. 5 And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us.
 
@@ -203,10 +200,7 @@ Death Through Adam, Life Through Christ
 </p>
           </div>
 <div className={styles.card}>
-  <h2>
-  Chapter 6
-  Dead to Sin, Alive in Christ
-  </h2>
+  <h2  className={styles.chapter}>Romans Chapter IV</h2>
 <p>
 
 6 What shall we say, then? Shall we go on sinning so that grace may increase? 2 By no means! We are those who have died to sin; how can we live in it any longer? 3 Or don’t you know that all of us who were baptized into Christ Jesus were baptized into his death? 4 We were therefore buried with him through baptism into death in order that, just as Christ was raised from the dead through the glory of the Father, we too may live a new life.
@@ -224,10 +218,7 @@ Slaves to Righteousness
 </p>
 </div>
 <div className={styles.card}>
-  <h2>
-  Chapter 7
-  Released From the Law, Bound to Christ
-  </h2>
+<h2  className={styles.chapter}>Romans Chapter VII</h2>
   <p>
   
 7 Do you not know, brothers and sisters—for I am speaking to those who know the law—that the law has authority over someone only as long as that person lives? 2 For example, by law a married woman is bound to her husband as long as he is alive, but if her husband dies, she is released from the law that binds her to him. 3 So then, if she has sexual relations with another man while her husband is still alive, she is called an adulteress. But if her husband dies, she is released from that law and is not an adulteress if she marries another man.
@@ -248,9 +239,7 @@ So then, I myself in my mind am a slave to God’s law, but in my sinful nature[
 </div>
 
 <div className={styles.card}>
-<h2>
-Chapter 8 Life Through the Spirit
-</h2>
+<h2  className={styles.chapter}>Romans Chapter VIII</h2>
 <p>
 
 8 Therefore, there is now no condemnation for those who are in Christ Jesus, 2 because through Christ Jesus the law of the Spirit who gives life has set you[a] free from the law of sin and death. 3 For what the law was powerless to do because it was weakened by the flesh,[b] God did by sending his own Son in the likeness of sinful flesh to be a sin offering.[c] And so he condemned sin in the flesh, 4 in order that the righteous requirement of the law might be fully met in us, who do not live according to the flesh but according to the Spirit.
@@ -282,9 +271,7 @@ More Than Conquerors
 </p>
 </div>
 <div className={styles.card}>
-<h2>
-  Chapter 9 Paul’s Anguish Over Israel
-</h2>
+<h2  className={styles.chapter}>Romans Chapter IX</h2>
 <p>
 
 9 I speak the truth in Christ—I am not lying, my conscience confirms it through the Holy Spirit— 2 I have great sorrow and unceasing anguish in my heart. 3 For I could wish that I myself were cursed and cut off from Christ for the sake of my people, those of my own race, 4 the people of Israel. Theirs is the adoption to sonship; theirs the divine glory, the covenants, the receiving of the law, the temple worship and the promises. 5 Theirs are the patriarchs, and from them is traced the human ancestry of the Messiah, who is God over all, forever praised![a] Amen.
@@ -337,9 +324,7 @@ Israel’s Unbelief
 </p>
 </div>
 <div className={styles.card}>
-<h2>
-Chapter 10 Brothers and sisters,
-</h2>
+<h2  className={styles.chapter}>Romans Chapter X</h2>
 <p>
  my heart’s desire and prayer to God for the Israelites is that they may be saved. 2 For I can testify about them that they are zealous for God, but their zeal is not based on knowledge. 3 Since they did not know the righteousness of God and sought to establish their own, they did not submit to God’s righteousness. 4 Christ is the culmination of the law so that there may be righteousness for everyone who believes.
 
@@ -370,9 +355,7 @@ Chapter 10 Brothers and sisters,
 </div>
 
 <div className={styles.card}>
-<h2>
-Chapter 11 The Remnant of Israel
-</h2>
+<h2  className={styles.chapter}>Romans Chapter XI</h2>
 <p>
 11 I ask then: Did God reject his people? By no means! I am an Israelite myself, a descendant of Abraham, from the tribe of Benjamin. 2 God did not reject his people, whom he foreknew. Don’t you know what Scripture says in the passage about Elijah—how he appealed to God against Israel: 3 “Lord, they have killed your prophets and torn down your altars; I am the only one left, and they are trying to kill me”[a]? 4 And what was God’s answer to him? “I have reserved for myself seven thousand who have not bowed the knee to Baal.”[b] 5 So too, at the present time there is a remnant chosen by grace. 6 And if by grace, then it cannot be based on works; if it were, grace would no longer be grace.
 
@@ -425,9 +408,7 @@ Doxology
 </div>
 
 <div className={styles.card}>
-  <h2>
-  Chapter 12 A Living Sacrifice
-  </h2>
+  <h2  className={styles.chapter}>Romans Chapter XII</h2>
   <p>
   12 Therefore, I urge you, brothers and sisters, in view of God’s mercy, to offer your bodies as a living sacrifice, holy and pleasing to God—this is your true and proper worship. 2 Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will.
 
@@ -452,9 +433,7 @@ In doing this, you will heap burning coals on his head.”[e]
 </div>
 
 <div className={styles.card}>
-<h2>
-Chapter 13 Submission to Governing Authorities
-</h2>
+<h2  className={styles.chapter}>Romans Chapter XIII</h2>
 <p>
 13 Let everyone be subject to the governing authorities, for there is no authority except that which God has established. The authorities that exist have been established by God. 2 Consequently, whoever rebels against the authority is rebelling against what God has instituted, and those who do so will bring judgment on themselves. 3 For rulers hold no terror for those who do right, but for those who do wrong. Do you want to be free from fear of the one in authority? Then do what is right and you will be commended. 4 For the one in authority is God’s servant for your good. But if you do wrong, be afraid, for rulers do not bear the sword for no reason. They are God’s servants, agents of wrath to bring punishment on the wrongdoer. 5 Therefore, it is necessary to submit to the authorities, not only because of possible punishment but also as a matter of conscience.
 
@@ -469,9 +448,7 @@ The Day Is Near
 </div>
 
 <div className={styles.card}>
-<h2>
-Chapter 14 The Weak and the Strong
-</h2>
+<h2  className={styles.chapter}>Romans Chapter XIV</h2>
 <p>
 14 Accept the one whose faith is weak, without quarreling over disputable matters. 2 One person’s faith allows them to eat anything, but another, whose faith is weak, eats only vegetables. 3 The one who eats everything must not treat with contempt the one who does not, and the one who does not eat everything must not judge the one who does, for God has accepted them. 4 Who are you to judge someone else’s servant? To their own master, servants stand or fall. And they will stand, for the Lord is able to make them stand.
 
@@ -493,9 +470,7 @@ Chapter 14 The Weak and the Strong
 </p>
 </div>
 <div className={styles.card}>
-<h2>
-Chapter 15 We who are strong
-</h2>
+<h2  className={styles.chapter}>Romans Chapter XV</h2>
 <p>
 ought to bear with the failings of the weak and not to please ourselves. 2 Each of us should please our neighbors for their good, to build them up. 3 For even Christ did not please himself but, as it is written: “The insults of those who insult you have fallen on me.”[a] 4 For everything that was written in the past was written to teach us, so that through the endurance taught in the Scriptures and the encouragement they provide we might have hope.
 
@@ -540,9 +515,7 @@ Paul’s Plan to Visit Rome
 </p>
 </div>
 <div className={styles.card}>
-<h2>
-Chapter 16 Personal Greetings
-</h2>
+<h2  className={styles.chapter}>Romans Chapter XVI</h2>
 <p>
 I commend to you our sister Phoebe, a deacon[a][b] of the church in Cenchreae. 2 I ask you to receive her in the Lord in a way worthy of his people and to give her any help she may need from you, for she has been the benefactor of many people, including me.
 
