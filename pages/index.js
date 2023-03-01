@@ -24,7 +24,7 @@ export default function Home() {
         </h1>
             <div  className={styles.image}>
        <Image 
-                                src="/illustration-jesus-walked-out-tomb_29028-284.webp"
+                                src="/romans.webp"
                                 alt="Romans"
                                 height={900}
                                 width={2000}
