@@ -64,6 +64,8 @@ export default function Home() {
         </a> 
          
                </div>
+              <p className={styles.fund}>(Romans 8:18)
+I consider that our present sufferings are not worth comparing with the glory that will be revealed in us.</p>
         <div className={styles.grid}>
          <div className={styles.card}>
             <h2  className={styles.chapter}>Romans Chapter I</h2>
