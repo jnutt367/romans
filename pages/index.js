@@ -24,7 +24,7 @@ export default function Home() {
         </h1>
             <div  className={styles.image}>
        <Image 
-                                src="/romans.webp"
+                                src="/bible.gif"
                                 alt="Romans"
                                 height={900}
                                 width={2000}
@@ -64,8 +64,7 @@ export default function Home() {
         </a> 
          
                </div>
-              <p className={styles.fund}>(Romans 8:18)
-I consider that our present sufferings are not worth comparing with the glory that will be revealed in us.</p>
+              <p className={styles.fund}>(Romans 10:17) "Consequently, faith comes from hearing the message, and the message is heard through the word about Christ."</p>
         <div className={styles.grid}>
          <div className={styles.card}>
             <h2  className={styles.chapter}>Romans Chapter I</h2>
