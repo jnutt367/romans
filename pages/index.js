@@ -35,24 +35,25 @@ export default function Home() {
       <a href="https://acts-zeta.vercel.app/">
              <Image 
                                 src="/chevron-left.svg"
-                                alt="Jesus"
-                                 height={25}
-                                width={25}
+                                 alt="Left arrow"
+                                height={75}
+                                width={75}
                                 priority
                               />
        </a>
 
-          <a href="https://gofund.me/a2b590af">
+        <a href="https://gofund.me/a2b590af">
              <p className={styles.donate}>
-               SUPPORT
+               Support <br />
+                  Creator
                </p>
        </a>
          <a href="https://first-corinthians.vercel.app/">
            <Image 
                                 src="/chevron-right.svg"
                                 alt="Jesus"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
