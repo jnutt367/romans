@@ -13,14 +13,13 @@ export default function Home() {
      
       <main className={styles.main}>
        
-         <div className={styles.hero}>
-             <h2 className={styles.holy}>THE HOLY</h2>
+        <div className={styles.hero}>
+                <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-holy-bible.vercel.app/" target="_blank">BIBLE</a>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
-        
         <h1 className={styles.title}>
-         ROMANS
+        ROMANS
         </h1>
             <div  className={styles.image}>
        <Image 
@@ -30,6 +29,8 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
+                                  
+                                  
                           <iframe width="100%" height="315" src="https://www.youtube.com/embed/ej_6dVdJSIU" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>       
             </div>                       
                         <div className={styles.nav}>           
@@ -43,16 +44,19 @@ export default function Home() {
                               />
        </a>
 
-        <a href="https://gofund.me/a2b590af">
-             <p className={styles.donate}>
-               Support <br />
-                  Creator
-               </p>
+     <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
+              <Image className={styles.arrow}
+                                src="/youtube-logo-png-hd-21.png"
+                                alt="youtube-icon"
+                                height={75}
+                                width={75}
+                                priority
+                              /> 
        </a>
          <a href="https://first-corinthians.vercel.app/">
            <Image 
                                 src="/chevron-right.svg"
-                                alt="Jesus"
+                                alt="right arrow"
                                  height={75}
                                 width={75}
                                 priority
