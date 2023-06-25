@@ -31,8 +31,16 @@ export default function Home() {
                               />
                                   
                                   
-                          <iframe width="100%" height="315" src="https://www.youtube.com/embed/ej_6dVdJSIU" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>       
-            </div>                       
+                          
+            </div>  
+                                  <div className={styles.iframe}>   
+                                   <iframe width="100%" height="315" src="https://www.youtube.com/embed/ej_6dVdJSIU" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+                                  </div>                               
+  <p className={styles.parables}>
+                                 Roman's theme is righteousness. 1) No human is righteous 2) Jesus is perfectly righteous 3) faith in Him frees us from the power of sin, gives us new life & returns us to a right relationship with God.
+                                  </p>  
+
+                                  
                         <div className={styles.nav}>           
       <a href="https://acts-zeta.vercel.app/">
              <Image 
@@ -65,7 +73,7 @@ export default function Home() {
         </a> 
          
                </div>
-              <p className={styles.fund}>(Romans 10:17) "Consequently, faith comes from hearing the message, and the message is heard through the word about Christ."</p>
+            
         <div className={styles.grid}>
          <div className={styles.card}>
             <h2  className={styles.chapter}>Romans Chapter I</h2>
