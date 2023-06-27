@@ -35,7 +35,7 @@ export default function Home() {
             </div>  
                                                          
   <p className={styles.parables}>
-                                 Roman's theme is righteousness. 1) No human is righteous 2) Jesus is perfectly righteous 3) faith in Him frees us from the power of sin, gives us new life & returns us to a right relationship with God.
+                                  Paul wrote this letter in preparation for his visit back to Rome. It's theme being righteousness. 
                                   </p>  
 
  
