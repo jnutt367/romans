@@ -23,7 +23,7 @@ export default function Home() {
         </h1>
             <div  className={styles.image}>
        <Image 
-                                src="/paul_romans.png"
+                                src="/romans.png"
                                 alt="Romans"
                                 height={900}
                                 width={2000}
