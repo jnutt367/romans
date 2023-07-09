@@ -35,7 +35,7 @@ export default function Home() {
             </div>  
                                                          
   <p className={styles.parables}>
-                                  Paul wrote this letter in preparation for his visit back to Rome. It's theme being righteousness. 
+                                 Paul teaches that no human is righteous, Jesus Christ is perfectly righteous AND through faith in Him, we are given new life.
                                   </p>  
 
  
