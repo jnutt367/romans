@@ -72,7 +72,7 @@ export default function Home() {
          
                </div>
              <div className={styles.iframe}>   
-                                   <iframe width="100%" height="315" src="https://www.youtube.com/embed/ej_6dVdJSIU" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+                                   <iframe width="100%" height="315" src="https://www.youtube.com/embed/ej_6dVdJSIU?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
                                   </div>      
                                   <div className={styles.grid}>
          <div className={styles.card}>
@@ -584,28 +584,14 @@ Erastus, who is the city’s director of public works, and our brother Quartus s
 </div>
 
         </div>
-</div>
-        <p className={styles.description}> 
-        <code className={styles.publisher}>
-        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
-        </code>
-        </p>
+  
+  <iframe width="100%" height="600" src="https://www.youtube.com/embed/0SVTl4Xa5fY?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
+  </div>
+    
 
       </main>
 
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-            
-          </span>
-        </a>
-      </footer>
     </div>
   )
 }
