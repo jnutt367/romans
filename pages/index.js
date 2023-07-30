@@ -604,8 +604,8 @@ Erastus, who is the city’s director of public works, and our brother Quartus s
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/thess_hero.png"
-                                                    alt="hero image for Thessalonians"
+                                                    src="/james.png"
+                                                    alt="James hero"
                                                     height={900}
                                                     width={2000}
                                                     priority
@@ -615,10 +615,10 @@ Erastus, who is the city’s director of public works, and our brother Quartus s
                         </div>
     <p className={styles.parables}>
 
-            James description will be here sonn, as it is written.
+            James grew up with Jesus, as His brother. He gives practical advise on favoritism, anger, contorlling the tongue & boasting in one's self.
 </p>                                                      
                   <div className={styles.nav2}>           
-      <a href="https://colossians.vercel.app/">
+      <a href="https://acts-zeta.vercel.app/#hebrews">
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
@@ -638,7 +638,7 @@ Erastus, who is the city’s director of public works, and our brother Quartus s
                                 priority
                               /> 
        </a>
-         <a href="https://second-corinthians.vercel.app/#second_thessalonians">
+         <a href="">
            <Image 
                                 src="/next.webp"
                                 alt="next"
@@ -651,7 +651,7 @@ Erastus, who is the city’s director of public works, and our brother Quartus s
          
                </div>
                <div className={styles.iframe}> 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/No7Nq6IX23c?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                         
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/qn-hLHWwRYY?aoutoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                        
                                   </div>
                                   
                               
