@@ -638,7 +638,7 @@ Erastus, who is the city’s director of public works, and our brother Quartus s
                                 priority
                               /> 
        </a>
-         <a href="">
+         <a href="https://galatians.vercel.app/#first_peter">
            <Image 
                                 src="/next.webp"
                                 alt="next"
