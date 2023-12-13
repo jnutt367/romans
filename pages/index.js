@@ -21,50 +21,47 @@ export default function Home() {
         <h1 className={styles.title}>
         ROMANS
         </h1>
-            <div  className={styles.image}>
-       <Image 
-                                src="/romans.png"
-                                alt="Romans"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
-                                  
-                                  
+            <div  className={styles.iframe1}>
+      
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ALrLE-zNDxo?si=VC4LB2Z2P6TdQrg4&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    
                           
             </div>  
                                                          
   <p className={styles.parables}>
-                                 Paul teaches that no human is righteous, Jesus Christ is perfectly righteous AND through faith in Him, we are given new life.
+                                 Paul says no human is righteous, Jesus Christ is perfectly righteous AND through faith in Him, we are given new life.
                                   </p>  
 
  
                         <div className={styles.nav}>           
       <a href="https://acts-zeta.vercel.app/">
+<p>Prev</p>    
              <Image 
                                 src="/previous.webp"
                                  alt="Left arrow"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
      <a href="https://cash.app/$JNutt367">
+<p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://first-corinthians.vercel.app/">
+                                  <p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="right arrow"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
