@@ -307,7 +307,7 @@
 .nav {
     background-color: gold;
     background-image: linear-gradient(to bottom right, #006600, #C7E0D4);  
-    color: gold;
+    color: black;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -321,7 +321,7 @@
 .nav2 {
     background-color: #37ADA2;
     background-image: linear-gradient(to bottom right, #006600, #C7E0D4);     
-    color: gold;
+    color: black;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -334,12 +334,14 @@
     scale: 1.1;
     opacity: 0.8;
     border-radius: 50%;
+    color: gold;
 }
 .nav a {
     opacity:0.8;
 }
 .nav a:hover {
     opacity: 1;
+    color: black;
 }
 
 
