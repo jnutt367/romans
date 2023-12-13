@@ -38,7 +38,7 @@ export default function Home() {
 
  
                         <div className={styles.nav}>           
-      <a href="https://acts-zeta.vercel.app/">
+      <a href="https://john-zeta.vercel.app/#acts">
 <p>Prev</p>    
              <Image 
                                 src="/previous.webp"
