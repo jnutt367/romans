@@ -610,9 +610,9 @@ Erastus, who is the city’s director of public works, and our brother Quartus s
                         </div>
     <p className={styles.parables}>
 
-            James grew up with Jesus, His brother. Practical advise on favoritism, contorlling the tongue & boasting in self.
+            James was Jesus brother. Practical advise on favoritism, contorlling the tongue & boasting in self.
 </p>                                                      
-                  <div className={styles.nav1}>           
+                  <div className={styles.nav}>           
       <a href="https://acts-zeta.vercel.app/#hebrews">
   <p>Prev</p>
              <Image 
