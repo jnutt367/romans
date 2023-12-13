@@ -27,7 +27,7 @@ export default function Home() {
         </h1>
             <div  className={styles.iframe1}>
       
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/ALrLE-zNDxo?si=VC4LB2Z2P6TdQrg4&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/ALrLE-zNDxo?si=VC4LB2Z2P6TdQrg4&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     
                           
             </div>  
@@ -612,7 +612,7 @@ Erastus, who is the city’s director of public works, and our brother Quartus s
 
             James grew up with Jesus, His brother. Practical advise on favoritism, contorlling the tongue & boasting in self.
 </p>                                                      
-                  <div className={styles.nav2}>           
+                  <div className={styles.nav1}>           
       <a href="https://acts-zeta.vercel.app/#hebrews">
   <p>Prev</p>
              <Image 
@@ -653,7 +653,7 @@ Erastus, who is the city’s director of public works, and our brother Quartus s
                                   </div>
                                   
                               
-        <div className={styles.grid2}>
+        <div className={styles.grid}>
           <div className={styles.card2}>
            <h2  className={styles.chapter2}>James Chapter I</h2>
             <p> 
