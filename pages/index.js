@@ -33,7 +33,7 @@ export default function Home() {
             </div>  
                                                          
   <p className={styles.parables}>
-                                 Paul says no human is righteous, Jesus Christ is perfectly righteous AND through faith in Him, we are given new life.
+                                 Paul says no human is righteous, Jesus Christ is perfectly righteous, through faith in Him, we have new life.
                                   </p>  
 
  
