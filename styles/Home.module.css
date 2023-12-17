@@ -29,7 +29,9 @@
   0%  {opacity:0; left: -1000px;}  
   100% {opacity: 1; left: 0px;}  
 }
-  backgroud-color: transparent;
+
+.holy {
+backgroud-color: transparent;
   color: white;
   font-family: Rubik Doodle Shadow, Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
